@@ -1,2 +1,5 @@
-# Adaptive-Model-Sharing-with-SurrogateML
-This repository contains the code for the research paper Adaptive Model Sharing with SurrogateML
+# Adaptive model sharing using SurrogateML
+
+This is the github repository for the paper, Adaptive Model sharing using SurrogateML. 
+We have inluded python notebooks containing the results shown in the paper for different datasets. 
+To recreate the results, simply add the dataset files to your google drive and run the notebooks.
